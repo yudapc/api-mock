@@ -1,13 +1,29 @@
 const express = require("express");
 const jsonServer = require("json-server");
 const multer = require("multer");
-const upload = multer({ dest: "./uploads/" });
+const mime = require("mime");
 const port = process.env.PORT || 8083;
+
+const storage = multer.diskStorage({
+  destination: (req, file, cb) => {
+    cb(null, "uploads/");
+  },
+  filename: (req, file, cb) => {
+    const nameRandom = Math.random()
+      .toString(36)
+      .substr(2);
+    const extensionFile = mime.getExtension(file.mimetype);
+    const newFileName = `${nameRandom}.${extensionFile}`;
+    console.log("newFileName: ", newFileName);
+    cb(null, newFileName);
+  }
+});
+const upload = multer({ storage: storage });
 
 const app = express();
 app.use(express.json());
 
-app.use(function(req, res, next) {
+app.use((req, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
   res.header(
     "Access-Control-Allow-Headers",
@@ -16,7 +32,7 @@ app.use(function(req, res, next) {
   next();
 });
 
-app.options("/*", function(req, res, next) {
+app.options("/*", (req, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
   res.header(
     "Access-Control-Allow-Methods",
@@ -32,6 +48,8 @@ app.options("/*", function(req, res, next) {
 app.get("/", (req, res) => {
   res.json({ message: "ok" });
 });
+
+app.use("/static", express.static("uploads"));
 
 app.post("/upload", upload.single("file"), (req, res) => {
   const filename = req.file ? req.file.filename : "FILE NOT UPLOADED";
