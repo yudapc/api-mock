@@ -7,22 +7,14 @@ const app = express();
 app.use(express.json());
 
 app.get('/', (req, res) => {
-	res.json({ message: 'ok' });
-});
-
-app.get('/ping', (req, res) => {
-	res.json({ path: '/ping', message: 'ok' });
+  res.json({message: 'ok'});
 });
 
 app.post('/upload', upload.single('file'), (req, res) => {
-  if (req.file) {
-    var filename = req.file.filename;
-    var uploadStatus = 'File Uploaded Successfully';
-  } else {
-    console.log('No File Uploaded');
-    var filename = 'FILE NOT UPLOADED';
-    var uploadStatus = 'File Upload Failed';
-  }
+  const filename = req.file ? req.file.filename : 'FILE NOT UPLOADED';
+  const uploadStatus = req.file
+    ? 'File Uploaded Successfully'
+    : 'File Upload Failed';
 
   res.json({
     status: uploadStatus,
