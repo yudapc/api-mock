@@ -63,7 +63,7 @@ app.post("/upload", upload.single("file"), (req, res) => {
   });
 });
 
-app.use("/api/v1", jsonServer.router("db.json"));
+app.use("/", jsonServer.router("db.json"));
 
 app.listen(port, () => {
   console.log(`App is live on port ${port}`);

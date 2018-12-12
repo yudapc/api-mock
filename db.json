@@ -1,5 +1,1298 @@
 {
-  "posts": [{"id": 1, "title": "json-server", "author": "typicode"}],
-  "comments": [{"id": 1, "body": "some comment", "postId": 1}],
-  "profile": {"name": "typicode"}
+  "pages": [
+    {
+      "id": 1,
+      "category": "Brand",
+      "name": "Brand Samsung",
+      "title": "Samsung",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 11,
+      "category": "Brand",
+      "name": "Brand 11",
+      "title": "Brand Gadget",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 3,
+      "category": "Brand",
+      "name": "Brand 3",
+      "title": "Brand Gadget",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    }
+  ],
+  "planktons": [
+    {
+      "id": 1,
+      "category": "Brand",
+      "name": "Brand Samsung",
+      "title": "Samsung",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 2,
+      "category": "Promo",
+      "name": "Brand",
+      "title": "Brand Gadget",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "promo-gadget",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 11,
+      "category": "Brand",
+      "name": "Brand 11",
+      "title": "Brand Gadget",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 3,
+      "category": "Brand",
+      "name": "Brand 3",
+      "title": "Brand Gadget",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 4,
+      "category": "Brand",
+      "name": "Brand 4",
+      "title": "Brand Gadget",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 5,
+      "category": "Brand",
+      "name": "Brand 5",
+      "title": "Brand 13",
+      "description": "Temukan Produk Samsung Terbaru Disini!2",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": false,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka3",
+      "publishedFacebook": false,
+      "instagram": "http://fb.com/bhinneka4",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka5",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka6",
+      "publishedYoutube": true
+    },
+    {
+      "id": 6,
+      "category": "Brand",
+      "name": "Brand 6",
+      "title": "Brand 13",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 7,
+      "category": "Brand",
+      "name": "Brand 7",
+      "title": "Brand 13",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 8,
+      "category": "Brand",
+      "name": "Brand 8",
+      "title": "Brand 13",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 9,
+      "category": "Brand",
+      "name": "Brand 9",
+      "title": "Brand 13",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 10,
+      "category": "Brand",
+      "name": "Brand 10",
+      "title": "Brand 13",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 12,
+      "category": "Brand",
+      "name": "Brand 12",
+      "title": "Brand 13",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    },
+    {
+      "id": 13,
+      "category": "Brand",
+      "name": "Brand 13",
+      "title": "Brand 13",
+      "description": "Temukan Produk Samsung Terbaru Disini!",
+      "slug": "merek-samsung",
+      "leftMenuTitle": "Akses Cepat",
+      "published": true,
+      "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
+      "facebook": "http://fb.com/bhinneka",
+      "publishedFacebook": true,
+      "instagram": "http://fb.com/bhinneka",
+      "publishedInstagram": true,
+      "twitter": "http://fb.com/bhinneka",
+      "publishedTwitter": true,
+      "youtube": "http://fb.com/bhinneka",
+      "publishedYoutube": true
+    }
+  ],
+  "bannerHeaders": [
+    {
+      "id": 1,
+      "imageUrl": "https://as.bhinneka.com/www/images/2e5625d313f523d0da596a7f2e769616.jpg",
+      "imageAlt": "All About Men",
+      "link": "https://www.bhinneka.com/destinationlink",
+      "linkNewTab": true,
+      "createdBy": "Gunawan Sanjaya",
+      "actived": true,
+      "pageId": 1
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://as.bhinneka.com/www/images/61e66e0d07ea97db4fb829de66d0ccd4.jpg",
+      "imageAlt": "IT & Gadget Fair",
+      "link": "https://www.bhinneka.com/destinationlink",
+      "linkNewTab": false,
+      "createdBy": "Gunawan Sanjaya",
+      "actived": true,
+      "pageId": 1
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://as.bhinneka.com/www/images/2e5625d313f523d0da596a7f2e769616.jpg",
+      "imageAlt": "All About Men",
+      "link": "https://www.bhinneka.com/destinationlink",
+      "linkNewTab": true,
+      "createdBy": "Gunawan Sanjaya",
+      "actived": true,
+      "pageId": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://as.bhinneka.com/www/images/61e66e0d07ea97db4fb829de66d0ccd4.jpg",
+      "imageAlt": "IT & Gadget Fair",
+      "link": "https://www.bhinneka.com/destinationlink",
+      "linkNewTab": false,
+      "createdBy": "Gunawan Sanjaya",
+      "actived": true,
+      "pageId": 2
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "name": "Banner Two",
+      "title": "",
+      "description": "",
+      "linkSeeAll": "",
+      "linkNewTab": false,
+      "type": "BannerTwoColumn",
+      "actived": true,
+      "pageId": 1,
+      "banners": [
+        {
+          "id": 1,
+          "imageUrl": "https://as.bhinneka.com/www/images/0b812b9d25dd40e3b31493659754a8ff.jpg",
+          "imageAlt": "Serbu Diskon Semangat Pemuda",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        },
+        {
+          "id": 2,
+          "imageUrl": "https://as.bhinneka.com/www/images/5116e0b2854d7fd248012c286f9682c9.jpg",
+          "imageAlt": "Nego Sampai Deal",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Banner Four",
+      "title": "",
+      "description": "",
+      "linkSeeAll": "",
+      "linkNewTab": false,
+      "type": "BannerFourColumn",
+      "actived": true,
+      "pageId": 1,
+      "banners": [
+        {
+          "id": 3,
+          "imageUrl": "https://as.bhinneka.com/www/images/3aeb3e57299e45835e54f4e4005d61d2.jpg",
+          "imageAlt": "Murah of The Day",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        },
+        {
+          "id": 4,
+          "imageUrl": "https://as.bhinneka.com/www/images/7940dc2e9fa4cd9cf2cc9af54622313e.jpg",
+          "imageAlt": "Gadget Terkini",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        },
+        {
+          "id": 5,
+          "imageUrl": "https://as.bhinneka.com/www/images/88ecc93bddf7bdf0087f8b78d21e59a7.jpg",
+          "imageAlt": "Gaming Zone",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Televisi",
+      "title": "Televisi",
+      "description": "",
+      "linkSeeAll": "https://www.bhinneka.com/link-see-all",
+      "linkNewTab": true,
+      "type": "BannerWithSKU",
+      "actived": false,
+      "pageId": 1,
+      "banners": [
+        {
+          "id": 7,
+          "imageUrl": "http://stardes.bhinnekalocal.com/images/im_brand_banner_tv.jpg",
+          "imageAlt": "Televisi",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        }
+      ],
+      "products": [
+        {
+          "id": 1,
+          "sku": "sku001",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 2,
+          "sku": "sku002",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 3,
+          "sku": "sku003",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 4,
+          "sku": "sku004",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mesin Cuci",
+      "title": "Mesin Cuci",
+      "description": "",
+      "linkSeeAll": "",
+      "linkNewTab": true,
+      "type": "BannerWithSKU",
+      "actived": false,
+      "pageId": 1,
+      "banners": [
+        {
+          "id": 8,
+          "imageUrl": "http://stardes.bhinnekalocal.com/images/im_brand_banner_mesin_cuci.jpg",
+          "imageAlt": "Mesin Cuci",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        }
+      ],
+      "products": [
+        {
+          "id": 5,
+          "sku": "sku001",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 6,
+          "sku": "sku002",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 7,
+          "sku": "sku003",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 8,
+          "sku": "sku004",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Banner One",
+      "title": "",
+      "description": "",
+      "linkSeeAll": "",
+      "linkNewTab": false,
+      "type": "BannerOneColumn",
+      "actived": true,
+      "pageId": 1,
+      "banners": [
+        {
+          "id": 9,
+          "imageUrl": "https://as.bhinneka.com/www/images/442de5e4b6cbbc241fcf2fbbb4477bc2.jpg",
+          "imageAlt": "Your Traver Companios",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        }
+      ],
+      "products": []
+    },
+    {
+      "id": 6,
+      "name": "Smartphone & Tablet",
+      "title": "Smartphone & Tablet",
+      "description": "",
+      "linkSeeAll": "https://www.bhinneka.com/link-see-all",
+      "linkNewTab": true,
+      "type": "BannerWithCarousel",
+      "actived": true,
+      "pageId": 1,
+      "banners": [
+        {
+          "id": 10,
+          "imageUrl": "http://stardes.bhinnekalocal.com/images/im_brand_banner_smartphone.jpg",
+          "imageAlt": "Smartphone & Tablet",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        }
+      ],
+      "products": [
+        {
+          "id": 9,
+          "sku": "sku001",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 10,
+          "sku": "sku002",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 11,
+          "sku": "sku003",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 12,
+          "sku": "sku004",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 13,
+          "sku": "sku005",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 14,
+          "sku": "sku006",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 15,
+          "sku": "sku007",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 16,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Microwaves",
+      "title": "Microwaves",
+      "description": "",
+      "linkSeeAll": "https://www.bhinneka.com/link-see-all",
+      "linkNewTab": true,
+      "type": "ProductCarousel",
+      "actived": true,
+      "pageId": 1,
+      "banners": [],
+      "products": [
+        {
+          "id": 17,
+          "sku": "sku001",
+          "name": "SAMSUNG Solo Microwave [MS28J5255UB]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/SAMSUNG-Solo-Microwave-MS28J5255UB--3316519144-201745135031.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku001",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 2185000,
+          "price": 1967000
+        },
+        {
+          "id": 18,
+          "sku": "sku002",
+          "name": "SAMSUNG Solo Microwave [MS28J5255UB]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/SAMSUNG-Solo-Microwave-MS28J5255UB--3316519144-201745135031.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku001",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 2185000,
+          "price": 1967000
+        },
+        {
+          "id": 19,
+          "sku": "sku003",
+          "name": "SAMSUNG Solo Microwave [MS28J5255UB]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/SAMSUNG-Solo-Microwave-MS28J5255UB--3316519144-201745135031.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku001",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 2185000,
+          "price": 1967000
+        },
+        {
+          "id": 20,
+          "sku": "sku004",
+          "name": "SAMSUNG Solo Microwave [MS28J5255UB]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/SAMSUNG-Solo-Microwave-MS28J5255UB--3316519144-201745135031.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku001",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 2185000,
+          "price": 1967000
+        },
+        {
+          "id": 21,
+          "sku": "sku005",
+          "name": "SAMSUNG Solo Microwave [MS28J5255UB]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/SAMSUNG-Solo-Microwave-MS28J5255UB--3316519144-201745135031.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku001",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 2185000,
+          "price": 1967000
+        },
+        {
+          "id": 22,
+          "sku": "sku006",
+          "name": "SAMSUNG Solo Microwave [MS28J5255UB]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/SAMSUNG-Solo-Microwave-MS28J5255UB--3316519144-201745135031.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku001",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 2185000,
+          "price": 1967000
+        },
+        {
+          "id": 23,
+          "sku": "sku007",
+          "name": "SAMSUNG Solo Microwave [MS28J5255UB]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/SAMSUNG-Solo-Microwave-MS28J5255UB--3316519144-201745135031.jpg",
+          "imageAlt": "asdfasdf",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku001",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 2185000,
+          "price": 1967000
+        },
+        {
+          "id": 24,
+          "sku": "sku008",
+          "name": "SAMSUNG Solo Microwave [MS28J5255UB2]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/SAMSUNG-Solo-Microwave-MS28J5255UB--3316519144-201745135031.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku001",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 2185000,
+          "price": 1967000
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Best Seller",
+      "title": "Best Seller",
+      "description": "",
+      "linkSeeAll": "https://www.bhinneka.com/link-see-all",
+      "linkNewTab": true,
+      "type": "ProductCarousel",
+      "actived": true,
+      "pageId": 1,
+      "banners": [],
+      "products": [
+        {
+          "id": 25,
+          "sku": "sku001",
+          "name": "Samsung Galaxy S9+",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/thumbnail/MARSHALL-Guitar-Amplifier-CODE25--SKU15516645-20161228151233.jpg",
+          "imageAlt": "sdf",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku001",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 9000000,
+          "price": 8000000
+        },
+        {
+          "id": 26,
+          "sku": "sku002",
+          "name": "Samsung Galaxy S9+ Pink",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/thumbnail/NATIONAL-GEOGRAPHIC-2300-Slim-Shoulder-Bag-SKU00015900-20150126082921.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku002",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 8000000,
+          "price": 7500000
+        },
+        {
+          "id": 27,
+          "sku": "sku003",
+          "name": "Samsung Galaxy S9+ Blue",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/thumbnail/5a6700f62189b.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku003",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 8000000,
+          "price": 7500000
+        },
+        {
+          "id": 28,
+          "sku": "sku004",
+          "name": "Samsung Galaxy S9+ Black",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/thumbnail/5bb6e1ea6eb1c.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku004",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 8000000,
+          "price": 7500000
+        },
+        {
+          "id": 29,
+          "sku": "sku005",
+          "name": "Samsung Galaxy S9+ Grey",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/thumbnail/5b55804275c24.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku005",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 8000000,
+          "price": 7500000
+        },
+        {
+          "id": 30,
+          "sku": "sku006",
+          "name": "Samsung Galaxy S9+ White",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/thumbnail/5b98af761a486.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku006",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 8500000,
+          "price": 800000
+        },
+        {
+          "id": 31,
+          "sku": "sku007",
+          "name": "Samsung Galaxy S9+ 6G",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/thumbnail/CASIO-G-Shock-[G-7900A-7DR]-SKU00013263-20140328185000.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku007",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 8000000,
+          "price": 7500000
+        },
+        {
+          "id": 32,
+          "sku": "sku008",
+          "name": "Samsung Galaxy S9+ 3G",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/thumbnail/5a6ed6bf8bf1f.jpg",
+          "imageAlt": "",
+          "link": "https://bhinneka.com/samsung-galaxy-s9+-sku008",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 8000000,
+          "price": 7500000
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Campuran",
+      "title": "Campuran",
+      "description": "",
+      "linkSeeAll": "https://www.bhinneka.com/link-see-all",
+      "linkNewTab": true,
+      "type": "ProductCarousel",
+      "actived": true,
+      "pageId": 1,
+      "banners": [
+        {
+          "id": 11,
+          "imageUrl": "http://stardes.bhinnekalocal.com/images/im_brand_banner_smartphone.jpg",
+          "imageAlt": "Smartphone & Tablet",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        }
+      ],
+      "products": [
+        {
+          "id": 33,
+          "sku": "sku001",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 34,
+          "sku": "sku002",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "asdf",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 35,
+          "sku": "sku003",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 36,
+          "sku": "sku004",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 7975000,
+          "price": 7249000
+        },
+        {
+          "id": 37,
+          "sku": "sku005",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 38,
+          "sku": "sku006",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 38,
+          "sku": "sku007",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 40,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Banner Two",
+      "title": "",
+      "description": "",
+      "linkSeeAll": "",
+      "linkNewTab": false,
+      "type": "BannerTwoColumn",
+      "actived": true,
+      "pageId": 2,
+      "banners": [
+        {
+          "id": 11,
+          "imageUrl": "https://as.bhinneka.com/www/images/0b812b9d25dd40e3b31493659754a8ff.jpg",
+          "imageAlt": "Serbu Diskon Semangat Pemuda",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        },
+        {
+          "id": 12,
+          "imageUrl": "https://as.bhinneka.com/www/images/5116e0b2854d7fd248012c286f9682c9.jpg",
+          "imageAlt": "Nego Sampai Deal",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        }
+      ],
+      "products": []
+    },
+    {
+      "id": 11,
+      "name": "Banner Four",
+      "title": "",
+      "description": "",
+      "linkSeeAll": "",
+      "linkNewTab": false,
+      "type": "BannerFourColumn",
+      "actived": true,
+      "pageId": 2,
+      "banners": [
+        {
+          "id": 13,
+          "imageUrl": "https://as.bhinneka.com/www/images/3aeb3e57299e45835e54f4e4005d61d2.jpg",
+          "imageAlt": "Murah of The Day",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        },
+        {
+          "id": 14,
+          "imageUrl": "https://as.bhinneka.com/www/images/7940dc2e9fa4cd9cf2cc9af54622313e.jpg",
+          "imageAlt": "Gadget Terkini",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        },
+        {
+          "id": 15,
+          "imageUrl": "https://as.bhinneka.com/www/images/88ecc93bddf7bdf0087f8b78d21e59a7.jpg",
+          "imageAlt": "Gaming Zone",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        },
+        {
+          "id": 16,
+          "imageUrl": "https://as.bhinneka.com/www/images/db417a0d0ee05d33c04f95d94528a0c7.jpg",
+          "imageAlt": "Promo Bank",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        }
+      ],
+      "products": []
+    },
+    {
+      "id": 12,
+      "name": "Televisi",
+      "title": "Televisi",
+      "description": "",
+      "linkSeeAll": "https://www.bhinneka.com/link-see-all",
+      "linkNewTab": true,
+      "type": "BannerWithSKU",
+      "actived": false,
+      "pageId": 2,
+      "banners": [
+        {
+          "id": 17,
+          "imageUrl": "https://as.bhinneka.com/www/images/db417a0d0ee05d33c04f95d94528a0c7.jpg",
+          "imageAlt": "Promo Bank",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        }
+      ],
+      "products": [
+        {
+          "id": 41,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 42,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 43,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 44,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Campuran",
+      "title": "Campuran",
+      "description": "",
+      "linkSeeAll": "https://www.bhinneka.com/link-see-all",
+      "linkNewTab": true,
+      "type": "ProductCarousel",
+      "actived": true,
+      "pageId": 2,
+      "banners": [],
+      "products": [
+        {
+          "id": 45,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 46,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 47,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 48,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 49,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 50,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 51,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 52,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        },
+        {
+          "id": 53,
+          "sku": "sku008",
+          "name": "SAMSUNG 40 Inch Smart TV UHD [UA40MU6103]",
+          "imageUrl": "https://static.bmdstatic.com/pk/product/medium/5a4f3f69c76d3.jpg",
+          "imageAlt": "",
+          "link": "https://www.bhinneka.com/destinationlink",
+          "linkNewTab": true,
+          "priceBeforeDiscount": 11499000,
+          "price": 10499000
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Main Banner",
+      "title": "",
+      "description": "",
+      "linkSeeAll": "",
+      "linkNewTab": false,
+      "type": "MainBanner",
+      "actived": true,
+      "pageId": 1,
+      "banners": [
+        {
+          "id": 9,
+          "imageUrl": "https://as.bhinneka.com/www/images/442de5e4b6cbbc241fcf2fbbb4477bc2.jpg",
+          "imageAlt": "asdf",
+          "link": "https://www.bhinneka.com/asli-bikin-tenang",
+          "linkNewTab": true,
+          "createdBy": "Gunawan Sanjaya",
+          "actived": true
+        }
+      ],
+      "products": []
+    }
+  ]
 }
