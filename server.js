@@ -14,7 +14,6 @@ const storage = multer.diskStorage({
       .substr(2);
     const extensionFile = mime.getExtension(file.mimetype);
     const newFileName = `${nameRandom}.${extensionFile}`;
-    console.log("newFileName: ", newFileName);
     cb(null, newFileName);
   }
 });
@@ -59,6 +58,7 @@ app.post("/upload", upload.single("file"), (req, res) => {
 
   res.json({
     status: uploadStatus,
+    fullUrl: `http://localhost:8083/static/${filename}`,
     filename: `Name Of File: ${filename}`
   });
 });
