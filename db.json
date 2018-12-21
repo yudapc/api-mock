@@ -301,7 +301,8 @@
       "linkNewTab": false,
       "type": "BannerTwoColumn",
       "actived": true,
-      "pageId": 1
+      "pageId": 1,
+      "products": []
     },
     {
       "id": 2,
@@ -312,7 +313,8 @@
       "linkNewTab": false,
       "type": "BannerFourColumn",
       "actived": true,
-      "pageId": 1
+      "pageId": 1,
+      "products": []
     },
     {
       "id": 3,
@@ -323,7 +325,13 @@
       "linkNewTab": true,
       "type": "BannerWithSKU",
       "actived": false,
-      "pageId": 1
+      "pageId": 1,
+      "products": [
+        "sku01",
+        "sku02",
+        "sku03",
+        "sku04"
+      ]
     },
     {
       "id": 4,
@@ -334,7 +342,13 @@
       "linkNewTab": true,
       "type": "BannerWithSKU",
       "actived": false,
-      "pageId": 1
+      "pageId": 1,
+      "products": [
+        "sku01",
+        "sku02",
+        "sku03",
+        "sku04"
+      ]
     },
     {
       "id": 5,
@@ -345,7 +359,8 @@
       "linkNewTab": false,
       "type": "BannerOneColumn",
       "actived": true,
-      "pageId": 1
+      "pageId": 1,
+      "products": []
     },
     {
       "id": 6,
@@ -356,7 +371,17 @@
       "linkNewTab": true,
       "type": "BannerWithCarousel",
       "actived": true,
-      "pageId": 1
+      "pageId": 1,
+      "products": [
+        "sku01",
+        "sku02",
+        "sku03",
+        "sku04",
+        "sku05",
+        "sku06",
+        "sku07",
+        "sku08"
+      ]
     },
     {
       "id": 7,
@@ -367,7 +392,21 @@
       "linkNewTab": true,
       "type": "ProductCarousel",
       "actived": true,
-      "pageId": 1
+      "pageId": 1,
+      "products": [
+        "sku01",
+        "sku02",
+        "sku03",
+        "sku04",
+        "sku05",
+        "sku06",
+        "sku07",
+        "sku08",
+        "sku09",
+        "sku10",
+        "sku11",
+        "sku12"
+      ]
     },
     {
       "id": 8,
@@ -378,7 +417,21 @@
       "linkNewTab": true,
       "type": "ProductCarousel",
       "actived": true,
-      "pageId": 1
+      "pageId": 1,
+      "products": [
+        "sku01",
+        "sku02",
+        "sku03",
+        "sku04",
+        "sku05",
+        "sku06",
+        "sku07",
+        "sku08",
+        "sku09",
+        "sku10",
+        "sku11",
+        "sku12"
+      ]
     },
     {
       "id": 9,
@@ -389,7 +442,21 @@
       "linkNewTab": true,
       "type": "ProductCarousel",
       "actived": true,
-      "pageId": 1
+      "pageId": 1,
+      "products": [
+        "sku01",
+        "sku02",
+        "sku03",
+        "sku04",
+        "sku05",
+        "sku06",
+        "sku07",
+        "sku08",
+        "sku09",
+        "sku10",
+        "sku11",
+        "sku12"
+      ]
     }
   ],
   "banners": [
@@ -494,7 +561,7 @@
       "sectionId": 10
     }
   ],
-  "products": [
+  "allProducts": [
     {
       "id": 1,
       "sku": "sku001",
