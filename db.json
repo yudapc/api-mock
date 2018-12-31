@@ -9,16 +9,30 @@
       "description": "Temukan Produk Samsung Terbaru Disini!",
       "slug": "merek-samsung",
       "leftMenuTitle": "Akses Cepat",
-      "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "published": true,
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     }
   ],
   "planktons": [
@@ -33,14 +47,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     },
     {
       "id": 2,
@@ -53,14 +81,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     },
     {
       "id": 11,
@@ -73,14 +115,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     },
     {
       "id": 3,
@@ -93,14 +149,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     },
     {
       "id": 4,
@@ -113,14 +183,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     },
     {
       "id": 5,
@@ -153,14 +237,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     },
     {
       "id": 7,
@@ -173,14 +271,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     },
     {
       "id": 8,
@@ -193,14 +305,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     },
     {
       "id": 9,
@@ -213,14 +339,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     },
     {
       "id": 10,
@@ -233,14 +373,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     },
     {
       "id": 12,
@@ -253,14 +407,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     },
     {
       "id": 13,
@@ -273,14 +441,28 @@
       "leftMenuTitle": "Akses Cepat",
       "published": true,
       "logoUrl": "https://static.bmdstatic.com/sf/assets/img/brands/samsung-logo.svg",
-      "facebook": "http://fb.com/bhinneka",
-      "publishedFacebook": true,
-      "instagram": "http://fb.com/bhinneka",
-      "publishedInstagram": true,
-      "twitter": "http://fb.com/bhinneka",
-      "publishedTwitter": true,
-      "youtube": "http://fb.com/bhinneka",
-      "publishedYoutube": true
+      "socialMedia": [
+        {
+          "link": "https://www.facebook.com/bhinneka",
+          "name": "facebook",
+          "published": true
+        },
+        {
+          "link": "https://www.instagram.com/bhinneka",
+          "name": "instagram",
+          "published": true
+        },
+        {
+          "link": "https://www.twitter.com/bhinneka",
+          "name": "twitter",
+          "published": true
+        },
+        {
+          "link": "https://www.youtube.com/bhinneka",
+          "name": "youtube",
+          "published": true
+        }
+      ]
     }
   ],
   "bannerHeaders": [
